@@ -17,3 +17,5 @@ Predict the percentage of marks of an student based on the number of study hours
  3.You can use R, Python, SAS Enterprise Miner or any other tool.
  
  4.What will be predicted score if a student studies for 9.25 hrs/ day?
+ 
+ youtube link: https://youtu.be/eazfFSsmfK0
