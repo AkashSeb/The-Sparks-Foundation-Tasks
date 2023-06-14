@@ -7,7 +7,7 @@ This repository contain the tasks which I did as a Data Science and Business Ana
 
  >Internship Type - Work from Home
 
- >>https://youtu.be/eazfFSsmfK0
+ https://youtu.be/eazfFSsmfK0
 
 # Task-1 : Prediction using Supervised ML (Level - Beginner)
 Predict the percentage of marks of an student based on the number of study hours.
