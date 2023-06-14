@@ -18,5 +18,16 @@ Predict the percentage of marks of an student based on the number of study hours
  
  4.What will be predicted score if a student studies for 9.25 hrs/ day?
  
- 
-  >>Youtube link: https://youtu.be/eazfFSsmfK0
+
+# Task-2: Prediction using Unsupervised ML (Level - Beginner)
+
+  1.From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+  
+  2.Use R or Python or perform this task.
+  
+  
+  3.Data can be found at https://bit.ly/3kXTdox
+
+
+
+
